@@ -1,1 +1,3 @@
 this is the simple text file just to ppractice the git commands 
+
+this file i am updating from the dev branch 
