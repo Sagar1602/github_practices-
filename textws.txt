@@ -1,0 +1,1 @@
+this is the simple text file just to ppractice the git commands 
