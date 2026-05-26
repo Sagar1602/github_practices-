@@ -5,5 +5,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Build test
-        run: "this is gonna build the application"
+        run: echo "this is gonna build the application"
   
