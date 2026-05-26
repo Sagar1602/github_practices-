@@ -1,0 +1,11 @@
+name: First_Workflow
+on: workflow_dispatch
+jobs:
+  first-job:
+  runs-on: ubuntu-latest
+  steps:
+  - name: fetch
+    run: echo "this is the first steps to fetch the the code from the repo"
+  - name: build
+    run: echo "this steps is for the build the apllication"
+  
